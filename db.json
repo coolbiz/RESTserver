@@ -1,0 +1,12 @@
+{
+  "gpslogger":[
+    {
+      "id" : 0,
+      "date": "2017-08-05_18-00-00",
+      "name": "User Name1",
+      "ratitude": 134.005134,
+      "longitude": 34.005134,
+      "altitude": 0
+    }
+  ]
+}
